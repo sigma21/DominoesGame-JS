@@ -7,8 +7,6 @@ This repo includes:
 
 -`main.js` file which contains the main game flow.
 
-To start the app type `node main.js` in your terminal.
-
-(make sure to be in the same directory with the repository folder.)
+To start the app, while in `src` folder, type `node main.js` in your terminal.
 
 Semih.
